@@ -36,7 +36,7 @@ links.forEach(function(link){
         contenido.classList.add('animate__animated');
 
         setTimeout(function(){
-            location.href = '/index.html'
+            location.href = '/Boletines-page'
         }, 600);
 
         return false;
